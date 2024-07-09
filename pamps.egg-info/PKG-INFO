@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: pamps
+Version: 0.1.0
+Summary: Pamps is a social posting app
+Home-page: pamps.io
+Author: Ivair Marcelo
+Requires-Python: >3.11
+Description-Content-Type: text/markdown
+
+Pamps is a social posting app
